@@ -8,6 +8,7 @@ TapCardThemes.lightTheme : TapCardThemes.darkTheme;
 
 class TapCardThemes {
   static final lightTheme = ThemeData(
+
       fontFamily: 'SFPRODISPLAYBOLD',
       textButtonTheme: TextButtonThemeData(
           style: TextButton.styleFrom(
