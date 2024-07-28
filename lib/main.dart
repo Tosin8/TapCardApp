@@ -5,6 +5,7 @@ import 'package:get/get_navigation/src/root/get_material_app.dart';
 import 'package:tapcard/controllers/home_controller.dart';
 import 'package:tapcard/utils/themes.dart';
 import 'package:tapcard/views/settings/settings_view.dart';
+import 'package:tapcard/views/splash_screen.dart';
 
 void main() {
   Get.put(HomeController());
@@ -26,7 +27,7 @@ class TapCardApp extends StatelessWidget {
               themeMode: HomeController.it.themeMode,
 
               debugShowCheckedModeBanner: false,
-              home: SettingsScreen(),
+              home: const SplashScreen(),
             );
           },);
         }
