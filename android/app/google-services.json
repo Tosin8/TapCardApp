@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "805397727927",
+    "project_id": "tapcad-7cfb3",
+    "storage_bucket": "tapcad-7cfb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805397727927:android:9fa1db32ab36e7b76bdb32",
+        "android_client_info": {
+          "package_name": "com.tapcad.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkC6x7hxr8qmG0jlKwyd06_gzzs2n_onE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
